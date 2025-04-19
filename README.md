@@ -65,11 +65,7 @@ Yo te podre hacer un bot perzonalizado de los siguientes sistemas
 - Despedidas
 - Comandos perzonalizados
 
-Para mas informacion en mi perfil de discord o en mi servidor de discord ofical
-<div>
-<h3>Contacto</h3>
-<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-</div>
+Para mas informacion en mi perfil de discord o en mi servidor de <a href="#">discord ofical</a>
 
 
 ## `📡` Redes Sociales
