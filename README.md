@@ -71,9 +71,8 @@ Para mas informacion en mi perfil de discord o en mi servidor de <a href="#">dis
 ## `📡` Redes Sociales
 <div align="center">
 
-<a href="#">Youtube</a>
-<a href="#">Discord</a>
-<a href="#">Tiktok</a>
-<a href="#">Npm</a>
+<a href="https://youtube.com/@miuklips?si=JXqUAfMNqtAHzn58">Youtube</a>
+<a href="https://discord.gg/VWmpnY3h">Discord</a>
+<a href="https://www.tiktok.com/@miuklips_viw?_t=ZS-8vufCPLgGIM&_r=1">Tiktok</a>
 
 </div>
