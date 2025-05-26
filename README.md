@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/1330703334419730474/1362928113893507152/PROGRAMADOR_EN_VARIAS_SECCIONES.png?ex=68042d38&is=6802dbb8&hm=5e10fd8e8aea07b661c0743d3686ab73005ad2c878ca23187ce88f14ee9229e5&">
-</div>
+
 <h1 align="center"><b>Hola, Como estas?  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### `🎮` ¿Quien soy?
@@ -42,14 +40,13 @@ de **NODE.JS**, **JAVASCRIPT** Son los que e trabajado mas que los demas que sol
       </p>
 
 <br>
-<br>
+<!-- <br>
 <h3>Estadisticas</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Miu-klipsCoding2-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-
-<br>
+<br> -->
 
 # `🤖` ¿Quieres un bot perzonalizado?
 Yo te podre hacer un bot perzonalizado de los siguientes sistemas
